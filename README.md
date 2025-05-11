@@ -1,26 +1,34 @@
-## Welcome to My GitHub Profile!
+# Hi, I’m John Oluwaseyi – Building Secure, Scalable Futures
 
-Hey there! I'm Ayodele John, a passionate software developer with a focus on backend development. I thrive on crafting efficient and robust solutions using PHP, MySQL, and Python. My journey began with HTML, CSS, and JavaScript, where I honed my skills in creating captivating web interfaces using frameworks like Bootstrap.
+I’m a Cybersecurity Enthusiast and Full-Stack Developer passionate about empowering businesses and individuals through secure, innovative, and high-impact digital solutions
 
-### 🚀 Expertise
+### ⚒️ What I Do
 
-- **Backend Development:** I specialize in building powerful backend systems using PHP and MySQL. From creating APIs to managing databases, I'm all about making applications run smoothly behind the scenes.
+- **Web & Mobile Development**  
+  - Laravel, PHP, MySQL, WordPress  
+  - Next.js for SEO-optimized web apps  
+  - Elementor for rapid WordPress design
 
-- **Python Enthusiast:** I'm on an exciting journey to broaden my horizons with Python. Learning this versatile language has opened up new possibilities for me in software development.
+- **Cybersecurity & Infrastructure**  
+  - Network security & penetration testing (Linux, MikroTik)  
+  - AWS (EC2, IAM, Security Groups, Lambda, API Gateway)  
+  - Vulnerability assessments & secure architecture
 
-- **Web Development:** HTML, CSS, and JavaScript are my foundation. I love crafting engaging user experiences and bringing designs to life, often with a touch of Bootstrap to make things slick.
+- **SaaS & Cloud Projects**  
+  - Building CI/CD pipelines using AWS CodePipeline  
+  - Designing serverless microtools for SMEs  
+  - Exploring Odoo Community for ERP integrations
 
-### 💡 Goals
+### 💡 Vision
 
-My goal is to continually expand my skill set and knowledge in the software development realm. I'm passionate about creating efficient, maintainable, and scalable solutions that have a positive impact.
+> “Africa’s transformation begins with secured, intelligent systems that empower people. I’m here to build them.”
 
-### 🌱 Learning
+Let’s collaborate on:
+- Digital security tools  
+- SaaS platforms for African markets  
+- Community-driven cybersecurity awareness
 
-Currently, I'm diving deep into Python to broaden my expertise. Learning new technologies and concepts keeps me motivated and excited about what's next in the world of software development.
-
-### 📫 Let's Connect
-
-I'm always open to connecting with fellow developers, sharing ideas, and collaborating on projects. Feel free to reach out to me here on GitHub!
-
-Happy coding! 🖥️🚀
-
+### 📫 Reach Me  
+- [LinkedIn](https://linkedin.com/in/johnoluwaseyi)  
+- [Twitter](https://twitter.com/leojohnseyi)  
+- Email: leojohnseyi@domain.com  
