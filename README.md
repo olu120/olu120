@@ -31,4 +31,4 @@ Let’s collaborate on:
 ### 📫 Reach Me  
 - [LinkedIn](https://linkedin.com/in/johnoluwaseyi)  
 - [Twitter](https://twitter.com/leojohnseyi)  
-- Email: leojohnseyi@domain.com  
+- Email: leojohnseyi@gmail.com  
