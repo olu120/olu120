@@ -1,34 +1,44 @@
-# Hi, I’m John Oluwaseyi – Building Secure, Scalable Futures
+# I'm Ayodele John Oluwaseyi
 
-I’m a Cybersecurity Enthusiast and Full-Stack Developer passionate about empowering businesses and individuals through secure, innovative, and high-impact digital solutions
+I'm a **Backend-Focused Full-Stack Developer** passionate about building scalable, secure, and API-driven systems that power real-world products.  
+My expertise lies in designing backend architectures, integrating multi-provider APIs, and deploying cloud services — from authentication layers and cron jobs to payment systems and real-time communication workflows.
 
-### ⚒️ What I Do
+With a strong background in **cybersecurity** and a hands-on approach to cloud infrastructure, I aim to deliver backend solutions that are **reliable, fault-tolerant, and globally scalable.**
 
-- **Web & Mobile Development**  
-  - Laravel, PHP, MySQL, WordPress  
-  - Next.js for SEO-optimized web apps  
-  - Elementor for rapid WordPress design
+---
 
-- **Cybersecurity & Infrastructure**  
-  - Network security & penetration testing (Linux, MikroTik)  
-  - AWS (EC2, IAM, Security Groups, Lambda, API Gateway)  
-  - Vulnerability assessments & secure architecture
+### 🛠️ Tech Stack & Tools
 
-- **SaaS & Cloud Projects**  
-  - Building CI/CD pipelines using AWS CodePipeline  
-  - Designing serverless microtools for SMEs  
-  - Exploring Odoo Community for ERP integrations
+**Backend:** Node.js, Express.js, Prisma ORM, PostgreSQL, RESTful APIs  
+**Cloud & DevOps:** AWS Cognito, Vercel, GitHub Actions, Cron Jobs  
+**Frontend:** React.js, Next.js, TailwindCSS  
+**Payments & APIs:** Yo! Payments, SWIFT Integration, Resend, OpenStreetMap  
+**Other:** Docker (basic), Git/GitHub, Web Security, Network Fundamentals
 
-### 💡 Vision
+---
 
-> “Africa’s transformation begins with secured, intelligent systems that empower people. I’m here to build them.”
+### 🚀 Projects I'm Proud Of
 
-Let’s collaborate on:
-- Digital security tools  
-- SaaS platforms for African markets  
-- Community-driven cybersecurity awareness
+- **WellaPath:** Backend APIs and infrastructure for a healthcare platform — integrated AWS Cognito, location-based services, and secure user authentication.  
+- **Axelus × Boratu System:** Full-stack registration engine with cron jobs, social login, transactional email automation, and data export features.  
+- **Humble Vessel Platform:** Donation and volunteer platform with dual payment integration (Mobile Money + SWIFT), live chat, multilingual support, and headless CMS backend.
 
-### 📫 Reach Me  
-- [LinkedIn](https://linkedin.com/in/johnoluwaseyi)  
-- [Twitter](https://twitter.com/leojohnseyi)  
-- Email: leojohnseyi@gmail.com  
+---
+
+### 📈 What I’m Focused On
+
+- Building **reliable backend infrastructures** for real-time systems and API orchestration.  
+- Exploring **VoIP and telephony APIs** to deliver global, high-availability voice alert platforms.  
+- Designing **scalable systems** that balance performance, security, and fault tolerance.
+
+---
+
+### 🌐 Let’s Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/johnoluwaseyi)  
+- 📧 Email: [leojohnseyi@gmail.com](mailto:leojohnseyi@gmail.com)  
+- 💻 [GitHub](https://github.com/olu120)
+
+---
+
+> 💡 *"I believe the future of backend engineering is about orchestrating intelligent systems — combining APIs, cloud, and infrastructure into seamless digital experiences."*
